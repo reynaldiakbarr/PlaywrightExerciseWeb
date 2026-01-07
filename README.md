@@ -1,3 +1,6 @@
+# 🎭 Web Automation with Playwright
+![Playwright Tests](https://github.com/reynaldiakbarr/PlaywrightExerciseWeb/actions/workflows/playwright.yml/badge.svg)
+
 # Web Automation with Playwright
 
 * **Goal:** To automate the end-to-end user journey (Login -> Add to Cart -> Checkout) for a modern e-commerce platform.
