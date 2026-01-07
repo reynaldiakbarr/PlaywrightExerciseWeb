@@ -1,0 +1,1 @@
+Test Passed: User successfully registered during checkout flow.

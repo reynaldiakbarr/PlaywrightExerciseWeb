@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","28591","User should be able to register during the checkout process","firefox","Wed Jan 07 03:53:12 UTC 2026","passed","Wed Jan 07 03:53:41 UTC 2026","E-Commerce Complexity Suite","ecommerce.spec.ts","",""
+"","27279","User should be able to register during the checkout process","chromium","Wed Jan 07 03:52:44 UTC 2026","passed","Wed Jan 07 03:53:12 UTC 2026","E-Commerce Complexity Suite","ecommerce.spec.ts","",""
+"","30674","User should be able to register during the checkout process","webkit","Wed Jan 07 03:53:43 UTC 2026","passed","Wed Jan 07 03:54:13 UTC 2026","E-Commerce Complexity Suite","ecommerce.spec.ts","",""
